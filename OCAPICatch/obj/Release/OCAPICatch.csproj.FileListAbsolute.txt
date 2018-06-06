@@ -1,0 +1,14 @@
+E:\WorkDoc\WEB数据获取示例\csharp4xml\OCAPIDemo\bin\Release\OCAPIDemo.exe
+E:\WorkDoc\WEB数据获取示例\csharp4xml\OCAPIDemo\bin\Release\OCAPIDemo.pdb
+E:\WorkDoc\WEB数据获取示例\csharp4xml\OCAPIDemo\obj\Release\OCAPICatch.FormMain.resources
+E:\WorkDoc\WEB数据获取示例\csharp4xml\OCAPIDemo\obj\Release\OCAPIDemo.Properties.Resources.resources
+E:\WorkDoc\WEB数据获取示例\csharp4xml\OCAPIDemo\obj\Release\OCAPICatch.csproj.GenerateResource.Cache
+E:\WorkDoc\WEB数据获取示例\csharp4xml\OCAPIDemo\obj\Release\OCAPIDemo.exe
+E:\WorkDoc\WEB数据获取示例\csharp4xml\OCAPIDemo\obj\Release\OCAPIDemo.pdb
+E:\WorkDoc\WEB数据获取示例\csharp4xml\OCAPICatch\obj\Release\OCAPICatch.FormMain.resources
+E:\WorkDoc\WEB数据获取示例\csharp4xml\OCAPICatch\obj\Release\OCAPICatch.csproj.GenerateResource.Cache
+E:\WorkDoc\WEB数据获取示例\csharp4xml\OCAPICatch\bin\Release\OCAPICatch.exe
+E:\WorkDoc\WEB数据获取示例\csharp4xml\OCAPICatch\bin\Release\OCAPICatch.pdb
+E:\WorkDoc\WEB数据获取示例\csharp4xml\OCAPICatch\obj\Release\OCAPICatch.Properties.Resources.resources
+E:\WorkDoc\WEB数据获取示例\csharp4xml\OCAPICatch\obj\Release\OCAPICatch.exe
+E:\WorkDoc\WEB数据获取示例\csharp4xml\OCAPICatch\obj\Release\OCAPICatch.pdb

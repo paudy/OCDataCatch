@@ -1,0 +1,8 @@
+E:\WorkDoc\WEB数据获取示例\csharp4xml\OCAPIDemo\obj\Release\OCAPIDemo.Properties.Resources.resources
+E:\WorkDoc\WEB数据获取示例\csharp4xml\OCAPIDemo\obj\Release\OCAPIDemo.csproj.GenerateResource.Cache
+E:\WorkDoc\WEB数据获取示例\csharp4xml\OCAPIDemo\bin\Release\OCAPIDemo.exe
+E:\WorkDoc\WEB数据获取示例\csharp4xml\OCAPIDemo\bin\Release\OCAPIDemo.pdb
+E:\WorkDoc\WEB数据获取示例\csharp4xml\OCAPIDemo\obj\Release\OCAPIDemo.exe
+E:\WorkDoc\WEB数据获取示例\csharp4xml\OCAPIDemo\obj\Release\OCAPIDemo.pdb
+E:\WorkDoc\WEB数据获取示例\csharp4xml\OCAPIDemo\obj\Release\OCAPIDemo.csprojResolveAssemblyReference.cache
+E:\WorkDoc\WEB数据获取示例\csharp4xml\OCAPIDemo\obj\Release\OCAPICatch.FormMain.resources
