@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<!-- 数据采集程序本地配置 -->
+<config>
+	<dbinfo host="192.168.1.105" catalog="RyRecordDB" user="sa" pwd="123"/>
+	<interval seconds="10"/>
+</config>
